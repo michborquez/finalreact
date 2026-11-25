@@ -29,10 +29,15 @@ npm install
 3. Configurar Firebase y crear en la raíz del proyecto un archivo llamado .env con los datos de tu app web de Firebase:
 
 -VITE_FIREBASE_API_KEY=api_key
+
 -VITE_FIREBASE_AUTH_DOMAIN=proyecto.firebaseapp.com
+
 -VITE_FIREBASE_PROJECT_ID=proyecto
+
 -VITE_FIREBASE_STORAGE_BUCKET=proyecto.firebasestorage.app
+
 -VITE_FIREBASE_MESSAGING_SENDER_ID=123456789012
+
 -VITE_FIREBASE_APP_ID=1:123456789012:web:abcdef123456
 
 4. Iniciar el servidor de desarrollo
